@@ -28,7 +28,7 @@
 Acesse [crimsonzerohub.xyz](https://crimsonzerohub.xyz) e use a interface web.
 
 ### **2️⃣ Token de Acesso**
-- Insira o **token_leia** obtido da plataforma
+- Insira seu RA e Senha da Sala do Futuro
 - Sistema faz autenticação automática em múltiplas etapas
 
 ### **3️⃣ Gestão de Livros**
