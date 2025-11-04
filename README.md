@@ -1,1 +1,173 @@
-# Leia-SP-Eclipse
+# 🌙 Leia SP Eclipse
+
+> **Sistema de automação inteligente para a plataforma Leia SP via integração Árvore**
+
+[![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hdY6SDUe8J)
+[![Website](https://img.shields.io/badge/Site_Oficial-crimsonzerohub.xyz-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crimsonzerohub.xyz/)
+[![Status](https://img.shields.io/badge/Status-Online-00D26A?style=for-the-badge)](https://crimsonzerohub.xyz/)
+
+---
+
+## 🚀 O que é o Leia SP Eclipse?
+
+**Leia SP Eclipse** é um sistema de automação desenvolvido pela **Eclipse Lunar** que **completa automaticamente a leitura de livros e responde questões** da plataforma Leia SP através da integração direta com a API da Árvore. Utiliza **tecnologia avançada** para processar livros EPUB/PDF e responder questões de forma inteligente.
+
+---
+
+### 🔒 Segurança Implementada
+- ✅ Tokens JWT com tempo limitado de vida
+- ✅ Sessões isoladas por usuário
+- ✅ Validação de permissões em tempo real
+- ✅ Criptografia de dados sensíveis
+
+---
+
+## 🌐 Como Usar
+
+### **1️⃣ Acesso via Site** 
+Acesse [crimsonzerohub.xyz](https://crimsonzerohub.xyz) e use a interface web.
+
+### **2️⃣ Token de Acesso**
+- Insira o **token_leia** obtido da plataforma
+- Sistema faz autenticação automática em múltiplas etapas
+
+### **3️⃣ Gestão de Livros**
+- Visualize biblioteca completa de livros disponíveis
+- Filtre por livros pendentes, lidos ou completos
+- Veja progresso atual de cada livro
+
+### **4️⃣ Processamento Inteligente**
+- Sistema detecta automaticamente tipo de livro (EPUB/PDF)
+- Calcula tempo realista para leitura completa
+- Processa questões automaticamente nas páginas corretas
+- Atualiza progresso em tempo real
+
+### **5️⃣ Leitura Automática**
+- Simulação de leitura natural com tempos variáveis
+- Resposta automática de questões incorporadas
+- Gestão de progresso e percentual de conclusão
+- Marcação automática como livro lido
+
+---
+
+## 🛡️ Segurança & Privacidade
+
+### **Proteções Implementadas**
+- ✅ **Isolamento de Sessão**: Tokens não compartilhados entre usuários
+- ✅ **Validação JWT**: Verificação de tokens de autenticação
+- ✅ **Rate Limiting**: Prevenção de abuse da API
+- ✅ **Timeout Configurável**: Proteção contra requisições infinitas
+
+### **Compliance**
+- 🔒 Dados temporários apenas durante sessão
+- 🔒 Tokens descartados após uso
+- 🔒 Sem armazenamento permanente de credenciais
+
+---
+
+## ⚠️ Sistema de Detecção e Prevenção
+
+### **Anti-Bloqueio**
+- 🕒 Delays aleatórios entre requisições
+- 🔄 Rotação de user agents
+- 📍 Simulação de comportamento humano de leitura
+- 🚫 Parada automática em comportamentos suspeitos
+
+### **Gestão de Erros**
+- 🔄 Retry automático em falhas de rede
+- 🎯 Fallback para métodos alternativos
+- 📊 Logging detalhado para troubleshooting
+
+---
+
+## 📈 Métricas e Estatísticas
+
+### **Dados Coletados**
+- 📊 Tempo médio por tipo de livro
+- 📊 Taxa de sucesso por operação  
+- 📊 Performance das APIs GraphQL
+- 📊 Detecção de padrões de uso
+
+### **Otimizações Contínuas**
+- 🔄 Ajuste automático de timeouts
+- 🔄 Melhoria contínua dos algoritmos de leitura
+
+---
+
+## ⚠️ Aviso Legal
+
+Este projeto é fornecido "como está", sem garantias. O uso é de responsabilidade do usuário. 
+
+**Recomendações:**
+- Use com moderação
+- Não abuse do sistema
+- Respeite os limites da plataforma
+- Não compartilhe tokens com terceiros
+
+---
+
+## 🚫 Anti-Pirataria & Versões Oficiais
+
+**⚠️ ATENÇÃO: Cuidado com golpistas!**
+
+### 🔒 Código Fechado
+Este projeto **NÃO é open source**. O código-fonte não está disponível publicamente.
+
+### 💎 Versões Disponíveis
+
+**🆓 Versão FREE (Gratuita)**
+- Acesso básico a todas funcionalidades
+- Disponível para todos
+- Sem custo algum
+
+**⭐ Versão PREMIUM (Paga)**
+- Funcionalidades exclusivas
+- Suporte prioritário
+- **APENAS disponível através do Discord Oficial**
+
+### 🚨 ALERTA DE FRAUDE
+
+Se alguém **fora do Discord oficial** tentou vender acesso ao **Leia SP Eclipse**:
+
+1. 🚨 **Você está sendo enganado** - Não é revendedor autorizado
+2. 📢 **Denuncie no Discord** - Reporte o golpista para a equipe
+3. 💸 **Não pague** - Versões premium só pelo Discord oficial
+
+**Não existem:**
+- ❌ Revendedores autorizados fora do Discord
+- ❌ Vendedores em Telegram/WhatsApp
+- ❌ Versões "cracked" ou "modificadas"
+- ❌ Licenças vendidas por terceiros
+
+**Canais oficiais para compra:**
+- ✅ **Apenas pelo [Discord Oficial](https://discord.com/invite/hdY6SDUe8J)**
+- ✅ Negociação direta com administradores
+- ✅ Suporte oficial da equipe Eclipse Lunar
+
+**Acesso gratuito:**
+- ✅ [Discord Oficial](https://discord.com/invite/hdY6SDUe8J)
+- ✅ [Site Oficial](https://crimsonzerohub.xyz/)
+
+---
+
+## 📞 Contato
+
+- 💬 Discord: [discord.com/invite/hdY6SDUe8J](https://discord.com/invite/hdY6SDUe8J)
+- 🌐 Website: [crimsonzerohub.xyz](https://crimsonzerohub.xyz/)
+- 👤 Desenvolvedor: **@CrimsonStrauss** (Discord)
+
+---
+
+<div align="center">
+
+### 🌙 Eclipse Lunar
+**Automatização Inteligente para Estudantes**
+
+[![Discord](https://img.shields.io/badge/Discord-Junte--se-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/hdY6SDUe8J)
+[![Website](https://img.shields.io/badge/Website-Visite-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://crimsonzerohub.xyz/)
+
+*Feito com 🌙 por estudantes, para estudantes*
+
+</div>
+
+---
